@@ -1,6 +1,6 @@
-# dndcompanionapp
+# Simple Login App
 
-A new Flutter project.
+A new Flutter project with a simple login and sign up using Firebase
 
 ## Getting Started
 
