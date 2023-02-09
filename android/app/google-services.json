@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "799552571780",
+    "firebase_url": "https://dndapp-f609a-default-rtdb.firebaseio.com",
+    "project_id": "dndapp-f609a",
+    "storage_bucket": "dndapp-f609a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:799552571780:android:4f18c3855ea44e538d75d1",
+        "android_client_info": {
+          "package_name": "com.example.dndcompanionapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "799552571780-0tflumj369dka99g7s5a6sim7st95ucv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAj3HtdivWtTZSlXZanLOm9CS9a2War314"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "799552571780-0tflumj369dka99g7s5a6sim7st95ucv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "799552571780-ga5jl92hsh8hjbgo4380u9duqgigl3an.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.dndcompanionapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
